@@ -15,3 +15,5 @@ Password: javawebmedia
 
 HALAMAN LOGIN
 http://localhost/cmsjavawebmedia/login
+
+SELAMAT BELAJAR DAN SEMOGA BERMANFAAT
